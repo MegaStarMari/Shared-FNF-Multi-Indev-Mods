@@ -1,0 +1,134 @@
+{
+	"sing_duration": 4,
+	"scale": 1,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+
+	"voices": "custom",
+	"flip_x": true,
+
+	"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "Pico Idle Dance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUPmiss",
+			"name": "pico Up note",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFTmiss",
+			"name": "Pico NOTE LEFT",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"name": "Pico Note Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWNmiss",
+			"name": "Pico Down Note",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "pico Up note miss",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Pico NOTE LEFT miss",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "Pico Note Right Miss",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Pico Down Note MISS",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"hey_anim": "pico Up note",
+	"scared_anim": "Pico Down Note MISS",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUP",
+			"player1": [24, 56],
+			"player2": [24, 56]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [1, -7],
+			"player2": [-1, -7]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [100, -14],
+			"player2": [100, -14]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [98, -90],
+			"player2": [0, -90]
+		},
+		{
+			"anim": "singUPmiss",
+			"player1": [53, 20],
+			"player2": [53, 84]
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"player1": [1, -3],
+			"player2": [1, -3]
+		},
+		{
+			"anim": "singLEFTmiss",
+			"player1": [40, -16],
+			"player2": [30, 16]
+		},
+		{
+			"anim": "singDOWNmiss",
+			"player1": [69, -99],
+			"player2": [69, -99]
+		}
+	],
+
+	"common_stage_offset": [0, 200, 0, 200],
+	"pixel_stage_offset": [0, 200, 0, 200],
+	"local_multiplayer_offset": [0, -120],
+	"online_offset": [0, -50],
+	"playername_relative": 0
+}

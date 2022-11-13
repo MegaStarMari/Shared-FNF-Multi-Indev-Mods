@@ -1,0 +1,86 @@
+{
+	"sing_duration": 4,
+	"scale": 0.91,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+
+	"voices": "custom",
+	"flip_x": false,
+
+	"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "Idle",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "Up",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Left",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Down",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"hey_anim": "Hey",
+	"scared_anim": "Scared",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [0, 130],
+			"player2": [40, 130]
+		},
+		{
+			"anim": "singUP",
+			"player1": [80, 105],
+			"player2": [230, 105]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [21, -15],
+			"player2": [18, -45]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [143, -34],
+			"player2": [271, -24]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [10, -140],
+			"player2": [40, -140]
+		}
+	],
+
+	"common_stage_offset": [0, 50, 0, 50],
+	"pixel_stage_offset": [0, 0, 0, 0],
+	"local_multiplayer_offset": [0, -200],
+	"online_offset": [-40, -100],
+	"playername_relative": 170
+}

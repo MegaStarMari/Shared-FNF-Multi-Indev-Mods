@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="character.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Credit Goes to0000" x="0" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0001" x="0" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0002" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0003" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0004" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0005" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0006" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0007" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0008" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0009" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0010" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0011" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0012" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0013" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0014" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0015" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0016" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0017" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0018" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0019" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0020" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0021" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0022" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="Credit Goes to0023" x="418" y="0" width="418" height="828"/>
+	<SubTexture name="KadeDev for Coding0000" x="836" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0001" x="836" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0002" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0003" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0004" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0005" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0006" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0007" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0008" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0009" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0010" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0011" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0012" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0013" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0014" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0015" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0016" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0017" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0018" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0019" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0020" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0021" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0022" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="KadeDev for Coding0023" x="1228" y="0" width="392" height="752"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0000" x="1620" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0001" x="1620" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0002" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0003" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0004" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0005" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0006" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0007" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0008" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0009" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0010" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0011" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0012" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0013" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0014" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0015" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0016" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0017" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0018" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0019" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0020" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0021" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0022" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="Nate Anim8 for Arts and Chart0023" x="2079" y="0" width="459" height="802"/>
+	<SubTexture name="SockClip for Arts and Song0000" x="2538" y="0" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0001" x="2538" y="0" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0002" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0003" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0004" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0005" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0006" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0007" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0008" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0009" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0010" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0011" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0012" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0013" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0014" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0015" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0016" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0017" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0018" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0019" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0020" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0021" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0022" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="SockClip for Arts and Song0023" x="0" y="828" width="469" height="715"/>
+	<SubTexture name="Whitty Idle0000" x="469" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0001" x="469" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0002" x="910" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0003" x="910" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0004" x="1351" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0005" x="1351" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0006" x="1792" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0007" x="1792" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0008" x="1792" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0009" x="1792" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0010" x="469" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0011" x="469" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Idle0012" x="469" y="828" width="441" height="772"/>
+	<SubTexture name="Whitty Sing Down MISS0000" x="2233" y="828" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0001" x="2722" y="828" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0002" x="2722" y="828" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0003" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0004" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0005" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0006" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0007" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0008" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0009" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0010" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0011" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0012" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0013" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0014" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0015" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0016" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0017" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0018" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0019" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0020" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0021" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0022" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0023" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0024" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0025" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0026" x="489" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0027" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Down MISS0028" x="0" y="1600" width="489" height="715"/>
+	<SubTexture name="Whitty Sing Left MISS0000" x="978" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0001" x="1381" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0002" x="1381" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0003" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0004" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0005" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0006" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0007" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0008" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0009" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0010" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0011" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0012" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0013" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0014" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0015" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0016" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0017" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0018" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0019" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0020" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0021" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0022" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0023" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0024" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0025" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0026" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0027" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0028" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0029" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0030" x="2187" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0031" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Left MISS0032" x="1784" y="1600" width="403" height="752"/>
+	<SubTexture name="Whitty Sing Right MISS0000" x="2590" y="1600" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0001" x="0" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0002" x="0" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0003" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0004" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0005" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0006" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0007" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0008" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0009" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0010" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0011" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0012" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0013" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0014" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0015" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0016" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0017" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0018" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0019" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0020" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0021" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0022" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0023" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0024" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0025" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0026" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0027" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0028" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0029" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0030" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0031" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0032" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0033" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0034" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0035" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0036" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0037" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0038" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0039" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0040" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0041" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0042" x="952" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0043" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Right MISS0044" x="476" y="2404" width="476" height="804"/>
+	<SubTexture name="Whitty Sing Up MISS0000" x="1428" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0001" x="1857" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0002" x="1857" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0003" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0004" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0005" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0006" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0007" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0008" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0009" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0010" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0011" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0012" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0013" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0014" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0015" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0016" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0017" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0018" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0019" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0020" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0021" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0022" x="2715" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0023" x="2286" y="2404" width="429" height="828"/>
+	<SubTexture name="Whitty Sing Up MISS0024" x="2286" y="2404" width="429" height="828"/>
+</TextureAtlas>

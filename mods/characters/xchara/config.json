@@ -1,0 +1,134 @@
+{
+	"sing_duration": 4,
+	"scale": 1,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+
+	"voices": "custom",
+	"flip_x": false,
+
+	"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "Dad idle dance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "Dad Sing Note UP",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Dad Sing Note RIGHT",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "Dad Sing Note LEFT",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Dad Sing Note DOWN",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUPmiss",
+			"name": "Dad Sing Note UP",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFTmiss",
+			"name": "Dad Sing Note RIGHT",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"name": "Dad Sing Note LEFT",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWNmiss",
+			"name": "Dad Sing Note DOWN",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"hey_anim": "Dad idle dance",
+	"scared_anim": "Dad idle dance",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUP",
+			"player1": [10, 30],
+			"player2": [40, 30]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [0, 10],
+			"player2": [-20, 30]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [70, 30],
+			"player2": [40, 15]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [0, 0],
+			"player2": [10, 0]
+		},
+		{
+			"anim": "singUPmiss",
+			"player1": [10, 30],
+			"player2": [40, 30]
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"player1": [0, 10],
+			"player2": [-20, 30]
+		},
+		{
+			"anim": "singLEFTmiss",
+			"player1": [70, 30],
+			"player2": [40, 15]
+		},
+		{
+			"anim": "singDOWNmiss",
+			"player1": [0, 0],
+			"player2": [10, 0]
+		}
+	],
+
+	"common_stage_offset": [0, 200, 200, 200],
+	"pixel_stage_offset": [0, 200, 100, 200],
+	"local_multiplayer_offset": [0, -120],
+	"online_offset": [0, -50],
+	"playername_relative": 0
+}

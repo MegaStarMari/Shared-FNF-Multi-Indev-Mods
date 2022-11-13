@@ -1,0 +1,134 @@
+{
+	"sing_duration": 4,
+	"scale": 1,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+
+	"voices": "bf",
+	"flip_x": true,
+
+	"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "Idle",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "Up",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "Left",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Down",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUPmiss",
+			"name": "Up",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFTmiss",
+			"name": "Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"name": "Left",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWNmiss",
+			"name": "Down",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"hey_anim": "Hey",
+	"scared_anim": "Scared",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUP",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUPmiss",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singLEFTmiss",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singDOWNmiss",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		}
+	],
+
+	"common_stage_offset": [0, 0, 0, 0],
+	"pixel_stage_offset": [0, 0, 0, 0],
+	"local_multiplayer_offset": [0, 0],
+	"online_offset": [0, 0],
+	"playername_relative": 0
+}

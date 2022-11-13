@@ -1,0 +1,38 @@
+{
+	"clone": "bf",
+	"sing_duration": 4,
+	"scale": 1,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+
+	"voices": "custom",
+	"flip_x": true,
+
+	"animations":
+	[
+		{
+			"anim": "hey",
+			"name": "pico Up note",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"hey_anim": "pico Up note",
+	"scared_anim": "pico Up note",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "hey",
+			"player1": [-5, 5],
+			"player2": [-40, 5]
+		}
+	],
+
+	"common_stage_offset": [0, 0, 0, 0],
+	"pixel_stage_offset": [0, 0, 0, 0],
+	"local_multiplayer_offset": [0, 0],
+	"online_offset": [0, 0]
+}

@@ -1,0 +1,134 @@
+{
+	"sing_duration": 4,
+	"scale": 1,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+
+	"voices": "custom",
+	"flip_x": false,
+
+	"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "Whitty idle dance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "Whitty Sing Note UP",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Whitty Sing Note LEFT",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "whitty sing note right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Whitty Sing Note DOWN",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUPmiss",
+			"name": "Whitty Sing Note UP",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFTmiss",
+			"name": "Whitty Sing Note LEFT",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"name": "whitty sing note right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWNmiss",
+			"name": "Whitty Sing Note DOWN",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"hey_anim": "",
+	"scared_anim": "",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUP",
+			"player1": [0, 110],
+			"player2": [0, 110]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [0, 20],
+			"player2": [40, -90]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [150, -80],
+			"player2": [20, 20]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [50, -140],
+			"player2": [50, -150]
+		},
+		{
+			"anim": "singUPmiss",
+			"player1": [0, 110],
+			"player2": [0, 110]
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"player1": [0, 20],
+			"player2": [40, -90]
+		},
+		{
+			"anim": "singLEFTmiss",
+			"player1": [150, -80],
+			"player2": [20, 20]
+		},
+		{
+			"anim": "singDOWNmiss",
+			"player1": [50, -140],
+			"player2": [50, -150]
+		}
+	],
+
+	"common_stage_offset": [-100, 0, -100, 0],
+	"pixel_stage_offset": [-80, -50, 0, -50],
+	"local_multiplayer_offset": [-90, -320],
+	"online_offset": [-60, -130],
+	"playername_relative": 160
+}
